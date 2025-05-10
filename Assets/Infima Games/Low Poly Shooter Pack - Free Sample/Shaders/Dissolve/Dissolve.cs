@@ -15,7 +15,7 @@ public class Dissolve : MonoBehaviour
     private float cutoffHeight = 0f;
     private bool isDissolving = false;
     private int dissolveDirection = 1;
-    private void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter(Collider other)     
     {
         ToggleDissolve();
     }
