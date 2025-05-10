@@ -38,8 +38,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Blur: 0.002
-    - _LinesSpeed: -0.25
+    - _Blur: 0.00061
+    - _LinesSpeed: 0.1
     m_Colors:
     - _Centro: {r: 0.5, g: 0.5, b: 0, a: 0}
     - _Color: {r: 2.6390157, g: 2.6390157, b: 2.6390157, a: 0}
